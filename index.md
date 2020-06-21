@@ -3,7 +3,6 @@
     <style>
         #titulos-principais {
             color: blue;
-            background-color: black;
         }
 
         #conteudo {
