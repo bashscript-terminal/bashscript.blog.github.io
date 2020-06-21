@@ -17,5 +17,5 @@
 <body>
     <h1 id="titulos-principais">Blog</h1>
     <br>
-    <p id="conteudo"></p>
+    <p id="conteudo">Minhas configuções de teste</p>
 </body>
