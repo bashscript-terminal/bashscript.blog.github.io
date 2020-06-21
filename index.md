@@ -1,20 +1,37 @@
 <head>
 
     <style>
-        #titulos-principais {
-            color: blue;
+        #configuracao-geral {
+            margin: 25px;
+            padding: 10px;
         }
 
-        #conteudo {
-            color: white;
-            font-family: consolas;
+        #container-conteudo {
+            background-color: white;
+            margin: auto;
+            padding: auto;
+        }
+
+        .titulos {
+            color: blue;
+            font-family: Arial;
             font-size: 16px;
+        }
+
+        .conteudo {
+            color: black;
+            font-family: consolas;
+            font-size: 14px;
         }
     </style>
 
 </head>
 <body>
-    <h1 id="titulos-principais">Blog</h1>
-    <br>
-    <p id="conteudo">Minhas configuções de teste</p>
+<div id="configuracao-geral">
+    <div id="container-conteudo">
+        <h1 class="titulos">Como deixar seu Windows com melhor Desempenho</h1>
+        <br>
+        <p class="conteudo">Pagina em construção</p>
+    </div>
+</div>
 </body>
