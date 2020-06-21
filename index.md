@@ -11,12 +11,18 @@
             font-family: consolas;
             font-size: 16px;
         }
+
+        img {
+            height: 720px;
+            width: 550px;
+        }
     </style>
 
 </head>
 <body>
     <h1 class="titulos">Deixe seu Windows turbinado com essas dicas básicas e simples</h1>
         <br>
+        <img src="/home/debianbuster/Imagens/Windowsdicas.jpg"><br><br>
         <p class="conteudo">
             Segure o Botão logo do Windows no teclado + a letra R (MOD+R).<br><br>Na caixa executar "temp" sem aspas. Tecle OK. Essa pasta contém arquivos temporários.<br><br>Selecione todos os arquivos e tecle "delete". Alguns arquivos não poderam ser removidos porque estão em uso.<br><br>Concluído o processo, faça novamente o mesmo processo anterior e digite "%temp%" sem aspas. Repita o processo.<br><br>Siga os mesmos passos. Digite "recent" sem aspas, e apague todo os arquivos. Essa pasta fica registrado os arquivos abertos recentemente.<br><br>Digite Prefetch. Apague todos os arquivos.<br><br>Abra a sua lixeira e exclua todos os arquivos que não vai precisar.<br><br>Abra o menu configurações ou digite painel de controle e Desinstalar. Desinstale todos os programas que não mais utiliza.<br><br>Faça uma varredura completa com seu antivirus.<br><br>Depois de todo o processo, reinicia seu sistema.
         </p>
