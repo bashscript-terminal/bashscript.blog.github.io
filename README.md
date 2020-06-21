@@ -1,4 +1,4 @@
-# <h1> bashscript.blog.github.io
+# <h1> :earth_americas:bashscript.blog.github.io
 # <h3> Blog oficial do canal youtube bashscript.
 
 <p style="color: blue; font-family: Arial; font-size: 14px;"> Este site ainda está sendo estudado de como ficará sua estrutura estética. Estamos trabalhando para produzir mais conteúdos.</p><br>
